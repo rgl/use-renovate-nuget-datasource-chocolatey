@@ -1,7 +1,7 @@
 {
   "type": "module",
   "dependencies": {
-    "renovate": "^39.79.1",
+    "renovate": "^40.0.6",
     "table": "^6.9.0"
   }
 }
