@@ -10,5 +10,5 @@ Install the dependencies, and run the example:
 
 ```bash
 npm ci
-node main.js wireshark
+LOG_LEVEL=trace node main.js wireshark
 ```
